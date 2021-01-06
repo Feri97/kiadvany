@@ -1,0 +1,36 @@
+\select@language {magyar} \contentsline {chapter}{\numberline {1}Bevezető}{4}{chapter.1}%
+\select@language {magyar} \contentsline {chapter}{\numberline {2}Megközelítések}{5}{chapter.2}%
+\select@language {magyar} \contentsline {section}{\numberline {2.1}Analízisszintű gondolkodás}{5}{section.2.1}%
+\select@language {magyar} \contentsline {section}{\numberline {2.2}Tervezésszintű gondolkodás}{5}{section.2.2}%
+\select@language {magyar} \contentsline {chapter}{\numberline {3}Képességek}{6}{chapter.3}%
+\select@language {magyar} \contentsline {section}{\numberline {3.1}Hasonlóság a szekvenciális nyelvekkel}{6}{section.3.1}%
+\select@language {magyar} \contentsline {section}{\numberline {3.2}Objektumok és osztályok}{6}{section.3.2}%
+\select@language {magyar} \contentsline {section}{\numberline {3.3}Osztály alapú és prototípus alapú}{8}{section.3.3}%
+\select@language {magyar} \contentsline {section}{\numberline {3.4}Dinamikus kötés és üzenetátadás}{8}{section.3.4}%
+\select@language {magyar} \contentsline {section}{\numberline {3.5}Egységbe zárás}{9}{section.3.5}%
+\select@language {magyar} \contentsline {section}{\numberline {3.6}Kompozíció, öröklődés és delegáció}{9}{section.3.6}%
+\select@language {magyar} \contentsline {section}{\numberline {3.7}Interfészek}{11}{section.3.7}%
+\select@language {magyar} \contentsline {chapter}{\numberline {4}Kódpéldák}{12}{chapter.4}%
+\select@language {magyar} \contentsline {section}{\numberline {4.1}Osztálydefiníció}{12}{section.4.1}%
+\select@language {magyar} \contentsline {section}{\numberline {4.2}Öröklődés}{12}{section.4.2}%
+\select@language {magyar} \contentsline {section}{\numberline {4.3}Absztrakt osztályok}{13}{section.4.3}%
+\select@language {magyar} \contentsline {section}{\numberline {4.4}Interfészek}{13}{section.4.4}%
+\select@language {magyar} \contentsline {chapter}{\numberline {5}Nyelvek}{15}{chapter.5}%
+\select@language {magyar} \contentsline {section}{\numberline {5.1}Dinamikus nyelvek}{17}{section.5.1}%
+\select@language {magyar} \contentsline {section}{\numberline {5.2}Hálózati kommunikáció}{17}{section.5.2}%
+\select@language {magyar} \contentsline {chapter}{\numberline {6}Tervezési minták}{18}{chapter.6}%
+\select@language {magyar} \contentsline {section}{\numberline {6.1}Altípusos polimorfizmus és viselkedésbeli altípusosság}{18}{section.6.1}%
+\select@language {magyar} \contentsline {section}{\numberline {6.2}Négyek bandája tervminták}{18}{section.6.2}%
+\select@language {magyar} \contentsline {section}{\numberline {6.3}Objektumorientáció és adatbázisok}{19}{section.6.3}%
+\select@language {magyar} \contentsline {section}{\numberline {6.4}Kapcsolat a valóság modellezéséve}{19}{section.6.4}%
+\select@language {magyar} \contentsline {section}{\numberline {6.5}Vezérlési folyam}{19}{section.6.5}%
+\select@language {magyar} \contentsline {section}{\numberline {6.6}Felelősség-, illetve adatvezérelt programozás}{20}{section.6.6}%
+\select@language {magyar} \contentsline {section}{\numberline {6.7}SOLID alapelvek és GRASP minták}{20}{section.6.7}%
+\select@language {magyar} \contentsline {chapter}{\numberline {7}Formális szemantikája}{21}{chapter.7}%
+\select@language {magyar} \contentsline {chapter}{\numberline {8}Története}{22}{chapter.8}%
+\select@language {magyar} \contentsline {section}{\numberline {8.1}Kezdetei}{22}{section.8.1}%
+\select@language {magyar} \contentsline {section}{\numberline {8.2}Az első objektumorientált nyelvek}{22}{section.8.2}%
+\select@language {magyar} \contentsline {subsection}{\numberline {8.2.1}Simula}{22}{subsection.8.2.1}%
+\select@language {magyar} \contentsline {subsection}{\numberline {8.2.2}Más korai programozási nyelvek}{23}{subsection.8.2.2}%
+\select@language {magyar} \contentsline {section}{\numberline {8.3}További programozási nyelvek}{24}{section.8.3}%
+\select@language {magyar} \contentsline {chapter}{\numberline {9}Irodalom}{26}{chapter.9}%
