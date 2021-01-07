@@ -1,9 +1,8 @@
-\documentclass[a4paper,12pt,twoside]{report}
+\documentclass[]{thesis-ekf}
 \usepackage[T1]{fontenc}
 \PassOptionsToPackage{defaults=hu-min}{magyar.ldf}
 \usepackage{fancyvrb,listingsutf8,xcolor,caption}
-\usepackage{fancyhdr,graphicx,amsthm,amsmath,amssymb,geometry,listings}
-\usepackage[unicode,colorlinks,linktocpage,allcolors=blue,bookmarksnumbered]{hyperref}
+\usepackage{fancyhdr,amsthm,amsmath,amssymb,listings}
 \usepackage[magyar]{babel}
 \lstdefinestyle{user1}{
 	inputencoding=utf8/latin2,
@@ -35,23 +34,21 @@
 	keywordstyle=\bfseries\color{blue},
 	commentstyle=\itshape\color{teal},
 }
-\footnotestyle{rule=fourth}
 \theoremstyle{definition}
 \newtheorem{definicio}{Definíció}[chapter]
 \DeclareMathOperator{\tg}{tg}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[LE,RO]{\normalfont\normalsize\thepage}
-\fancyhead[RE]{\nouppercase{\sffamily\small\leftmark}}
-\fancyhead[LO]{\nouppercase{\sffamily\small\rightmark}}
 \setlength{\headheight}{15pt}
 \renewcommand{\lstlistingname}{kód}
 
-\title{Objektumorientált programozás}
-\author{Csongrádi Ferenc Péter\\Programtervező Informatikus Bsc}
-\date{\today}
 
 \begin{document}
+	\institute{Természettudományi Kar - TTK}
+	\title{Objektumorientált programozás}
+	\author{Csongrádi Ferenc Péter\\Programtervező informatikus Bsc}
+	\supervisor{Dr. Tómács Tibor\\Egyetemi Docens}
+	\city{Eger}
+	\date{2020}
+	
 	\maketitle
 	\tableofcontents
 	\chapter{Bevezető}
@@ -61,7 +58,7 @@
 	
 	A legtöbb széles körben alkalmazott nyelv többek között az objektumorientált programozást is támogatja, tipikusan az imperatív, procedurális programozással együtt. A legfontosabb objektumorientált nyelvek: Java, C++, C\#, Python, PHP, Ruby, Perl, Object Pascal, Objective-C, Dart, Swift, Scala, Common Lisp, és Smalltalk.
 	
-	Az \emph{objektumorientált programozás} különböző megközelítéseiről  \az{\ref{fejezet-megk}}.~fejezetben	\az{\pageref{fejezet-megk}}.~oldalon olvashat.
+	Az \emph{objektumorientált programozásban} használt különböző megközelítésekről  \az{\ref{fejezet-megk}}.~fejezetben	\az{\pageref{fejezet-megk}}.~oldalon olvashat.
 	
 	\begin{definicio}\label{paradigma}
 		A \emph{programozási paradigma} egy osztályozási forma, amely a programozási nyelvek jellemzőin alapul. A nyelvek több paradigmába is sorolhatók.
